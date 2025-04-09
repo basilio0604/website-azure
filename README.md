@@ -1,1 +1,6 @@
-# website-azure
+o meu site vai trazer informações sobre saude mental, dicas e oq fazer em casa que possa ajudar sobre alguns problemas como, ansiedade, crises de raiva e algumas dicas de como não  deixar a depressão te tomar, alem disso ira dizer sobre habitos novos e coisas para fazer quando estiver se sentindo mal, assim fazendo com que você faça coisas que te distraim do prblema. Nele tera tbm um chat que vc podera dizer como esta se sentindo e dependendo da situação que voce descrever uma equipe entrara em contato com você ou sera possivel a pessoa ligar caso esteja se sentindo muito mal. 
+na palheta de cores dele sera azul claro com imagens que tragam paz para quem estav vendo sem muitas imagens. a logo dele sera com um desenho de uma pessoa em paz na cor roxo claro
+
+HTML (HyperText Markup Language) é uma linguagem de marcação usada para criar e estruturar o conteúdo de páginas na web. Ele define a estrutura básica de uma página web, como títulos, parágrafos, links, imagens, listas, tabelas, formulários, entre outros elementos.
+
+CSS (Cascading Style Sheets, ou "Folhas de Estilo em Cascata", em português) é uma linguagem usada para definir a aparência visual de uma página web. Enquanto o HTML estrutura o conteúdo da página, o CSS é responsável por estilizar esse conteúdo, controlando elementos como cores, fontes, tamanhos, layout e outros aspectos visuais.# website-azure
